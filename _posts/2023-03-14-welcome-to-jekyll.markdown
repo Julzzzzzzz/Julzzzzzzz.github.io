@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to Julia's website!"
 date:   2023-03-14 09:33:50 +0100
 categories: jekyll update
 ---
